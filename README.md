@@ -1,3 +1,3 @@
 # belly-button-challenge
-The website can be found here: file:///Users/Shridhik/Desktop/belly-button-challenge/index.html
+The website can be found here: https://shridhik.github.io/belly-button-challenge/ 
 This page is running index.html
